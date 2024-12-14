@@ -1,0 +1,63 @@
+{
+    "name": "galleta de gengibre",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3",
+        "arcade-fancy-text": "github:riknoll/arcade-fancy-text#v0.0.14",
+        "arcade-mini-menu": "github:riknoll/arcade-mini-menu#96cf1014271246d15b85368b45f298bd8c6609c4",
+        "ColorBlock": "github:unsignedarduino/colorblock#ac7b9500e40045cf1ddd8c5b7481d11bcb317f5f",
+        "arcade-tile-util": "github:microsoft/arcade-tile-util#v1.2.0",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
+        "Achievements": "github:meeeeeeeep1/achievements#4910ba22f82f73691752a6af29ed23215662723a",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.2.1",
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.4.1",
+        "Notifications": "github:unsignedarduino/notifications#de6517dcc280cafe902ef212f59d4f55a982c7ec",
+        "multiplayer": "*",
+        "pxt-button-combos": "github:jwunderl/pxt-button-combos#v0.0.24"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "math.ts",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.49",
+        "tag": "v1.12.49",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/8b39eda27ca91b27b57fc1f30c6b3b33d3fc2029",
+        "target": "1.12.57",
+        "pxt": "8.5.60",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#fff7e4",
+        "#f98284",
+        "#feaae4",
+        "#ffc384",
+        "#fff7a0",
+        "#87a889",
+        "#b0eb93",
+        "#b0a9e4",
+        "#accce4",
+        "#b3e3da",
+        "#d9c8bf",
+        "#6c5671",
+        "#ffe6c6",
+        "#dea38b",
+        "#28282e"
+    ]
+}
